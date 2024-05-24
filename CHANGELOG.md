@@ -3,3 +3,4 @@
 ## v0.1.0
 - Initial release
 - entry 1
+- entry 8
