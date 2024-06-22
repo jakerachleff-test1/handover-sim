@@ -8,3 +8,4 @@ test_12 = lambda: True
 test_19 = lambda: True
 test_26 = lambda: True
 test_33 = lambda: True
+test_40 = lambda: True
