@@ -46,3 +46,4 @@ test_278 = lambda: True
 test_285 = lambda: True
 test_292 = lambda: True
 test_299 = lambda: True
+test_306 = lambda: True
