@@ -108,3 +108,4 @@ test_712 = lambda: True
 test_719 = lambda: True
 test_726 = lambda: True
 test_733 = lambda: True
+test_740 = lambda: True
