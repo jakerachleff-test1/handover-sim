@@ -10,3 +10,4 @@ def farewell(name: str) -> str:
     return f"goodbye, {name}"
 # rev 892
 # rev 899
+# rev 906
