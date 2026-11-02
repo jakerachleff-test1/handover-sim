@@ -4,3 +4,7 @@ def greet(name: str) -> str:
 
 if __name__ == "__main__":
     print(greet("world"))
+
+
+def farewell(name: str) -> str:
+    return f"goodbye, {name}"
